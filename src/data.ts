@@ -29,7 +29,7 @@ export const projects = [
     category: "AI / ML",
     description: "AI-based tool to detect and suggest fixes for code errors. Intelligent debugging assistant that analyzes code and provides smart suggestions for error resolution.",
     tags: ["Python", "Machine Learning", "Flask", "React"],
-    github: "https://github.com/Kaushalkumar012/Codsoft",
+    github: "https://github.com/Kaushalkumar012/AI-powered-Code-Review-Bug-Detection-Agent",
   },
   {
     id: "password-analyzer",
