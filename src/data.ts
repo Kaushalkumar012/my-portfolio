@@ -16,12 +16,12 @@ export const profile = {
 
 export const projects = [
   {
-    id: "skillbridge",
-    title: "🤝 SkillBridge",
+    id: "skillswap",
+    title: "🤝 Skill Swap",
     category: "Full Stack",
     description: "Platform to connect users for skill exchange and collaboration. A community-driven app where users find others with complementary skills and collaborate on projects.",
     tags: ["React", "Node.js", "MongoDB", "WebSocket"],
-    github: "https://github.com/Kaushalkumar012/MINI_PROJECTS",
+    github: "https://github.com/Kaushalkumar012/Brain_Swap",
   },
   {
     id: "ai-debugger",
