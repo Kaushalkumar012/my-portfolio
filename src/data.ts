@@ -117,6 +117,4 @@ export const sideProjects = [
       "Built a fully responsive dark-mode portfolio with smooth scroll animations",
       "Integrated GitHub data, contact form, and section-based navigation",
     ],
-    github: "https://github.com/Kaushalkumar012/MINI_PROJECTS",
-  },
-];
+    github: "https://github.com/Kaushalkumar012/my-portfolio",
