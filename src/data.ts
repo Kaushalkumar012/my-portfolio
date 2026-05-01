@@ -21,7 +21,7 @@ export const projects = [
     category: "Full Stack",
     description: "Platform to connect users for skill exchange and collaboration. A community-driven app where users find others with complementary skills and collaborate on projects.",
     tags: ["React", "Node.js", "MongoDB", "WebSocket"],
-    github: "https://github.com/Kaushalkumar012/Brain_Swap",
+    github: "https://github.com/Kaushalkumar012/BrainSwap",
   },
   {
     id: "ai-debugger",
